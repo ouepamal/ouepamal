@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ouepamal&hide_title=true&show_icons=true&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=ouepamal&hide_title=true&show_icons=true&include_all_commits=true&theme=shadow_green)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ouepamal&theme=blueberry-duo&locale=fr)](https://git.io/streak-stats)
