@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Mes Stats](https://github-stats-extended.vercel.app/api?username=ouepamal)](https://github.com/stats-organization/github-stats-extended)
+[[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ouepamal&hide_title=true&show_icons=true&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=ouepamal&hide_title=true&show_icons=true&include_all_commits=true&theme=shadow_green)
