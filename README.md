@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Mes Stats](https://github-stats-extended.vercel.app/api?username=ouepamal)](https://github.com/stats-organization/github-stats-extended)
